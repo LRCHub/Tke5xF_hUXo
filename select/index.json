@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "失楽ペトリ",
+  "base_artist": "ナナホシ管弦楽団",
+  "createdAt": "2025-12-26T07:24:26.400041Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "失楽ペトリ",
+      "artist": "ナナホシ管弦楽団",
+      "has_synced": false,
+      "path": "select/pl_01_失楽ペトリ_ナナホシ管弦楽団.txt"
+    }
+  ]
+}
